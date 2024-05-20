@@ -16,6 +16,7 @@ flask==3.0.0
 bootstrap-flask==2.3.2
 flask-wtf==1.2.1
 langchain>=0.0.335
+langchain-community
 pypdf>=3.17.0
 markdown>=3.5.1
 google-cloud-aiplatform>=1.38
